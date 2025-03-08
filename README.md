@@ -7,7 +7,7 @@ Meshtastic / MeshCore solar powered node Box
 
 ### Instruction
 
-- YouTube Video Instruction "Soon https://www.youtube.com/@PricelessToolkit"
+- YouTube Video Instruction and Tests "Soon https://www.youtube.com/@PricelessToolkit"
 
 ### Hardware
 
