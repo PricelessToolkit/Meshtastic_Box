@@ -20,6 +20,7 @@ Meshtastic / MeshCore solar powered node Box
   - Node https://s.click.aliexpress.com/e/_oksc4GQ
   - Solar MPPT https://s.click.aliexpress.com/e/_oCKuVvc
   - Li-Ion Battery 2000mAh https://s.click.aliexpress.com/e/_ooSz8KS
+  - Connector JST PH 2.0 2xPin https://s.click.aliexpress.com/e/_oDxLu1g
   - Magnetic Mount Bracket https://s.click.aliexpress.com/e/_omyjzCE
   - Magnetic Mount Bracket https://s.click.aliexpress.com/e/_onnNhSO
 
