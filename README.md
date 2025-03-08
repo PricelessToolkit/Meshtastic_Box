@@ -5,7 +5,7 @@ Meshtastic / MeshCore solar or grid powered node
 
 ### What is a Meshtastic
 
-Meshtastic is an open-source, long-range, decentralized mesh communication system. It uses LoRa (Long Range) radios to enable text messaging and data sharing without the need for Wi-Fi or cellular networks. Ideal for outdoor adventures, emergency communication, and off-grid use, Meshtastic allows users to stay connected over several kilometers. It supports GPS location sharing, encrypted messaging, and integration with mobile and desktop apps.
+Meshtastic is an open-source, long-range, decentralized mesh communication system. It uses LoRa (Long Range) radios to enable text messaging and data sharing without the need for Wi-Fi or cellular networks. Ideal for outdoor adventures, emergency communication, and off-grid use, Meshtastic allows users to stay connected over several kilometers. It supports GPS location sharing, encrypted messaging, and integration with mobile and desktop apps. You can check if there is a node in your area https://meshtastic.liamcottle.net/ 
 
 ### Assembly Instruction
 
