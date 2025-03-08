@@ -38,4 +38,4 @@ Meshtastic / MeshCore solar powered node Box
 
 > [!NOTE]
 > 3D printing files are available for easy marking of connectors and solar panel mounting holes. Two types of battery holders are available: one for a single node and another for a double node.
-<img src="https://raw.githubusercontent.com/PricelessToolkit/Meshtastic_Box/main/img/3D_Print_Files.jpg" style="width: 1000px; height: auto;"/>
+<img src="https://raw.githubusercontent.com/PricelessToolkit/Meshtastic_Box/main/img/3D_Print_Files.png" style="width: 1000px; height: auto;"/>
