@@ -7,10 +7,12 @@ Meshtastic / MeshCore solar or grid powered node
 
 Meshtastic is an open-source, long-range, decentralized mesh communication system. It uses LoRa (Long Range) radios to enable text messaging and data sharing without the need for Wi-Fi or cellular networks. Ideal for outdoor adventures, emergency communication, and off-grid use, Meshtastic allows users to stay connected over several kilometers. It supports GPS location sharing, encrypted messaging, and integration with mobile and desktop apps.
 
-
 ### Assembly Instruction
 
 - YouTube Video Instruction and Tests "Soon https://www.youtube.com/@PricelessToolkit"
+
+> [!NOTE]
+> This solar-powered node with a Heltec T114 V2 consumes ~10mAh with 30 transmissions per hour, tested using a Power Profiler. It runs on 4x 3200mAh Li-ion batteries, allowing up to 30 days of operation without any "0" solar in winter.
 
 ### Hardware
 
