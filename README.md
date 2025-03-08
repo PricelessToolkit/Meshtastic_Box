@@ -1,4 +1,4 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U6U2QLAF8)
+<img src="https://raw.githubusercontent.com/PricelessToolkit/Meshtastic_Box/main/img/cover.jpg"/>
 
 # Meshtastic_Box
 Meshtastic / MeshCore solar powered node Box
